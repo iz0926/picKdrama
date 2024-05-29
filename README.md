@@ -2,7 +2,7 @@
 
 Welcome to PicK-Drama!
 
-If you've ever been in the mood for watching kdramas but are at a lost for what to watch, maybe we can help.
+If you've ever been in the mood for watching kdramas but are at a loss for what to watch, maybe we can help.
 
    Upon launching the website, you will be asked to create an account. Please create a username, a password containing atleast 8 characters, and
 your favorite kdrama. Upon logging in, you will be taken to the main screen, which features the randomizer buttons. A majority of kdramas are
