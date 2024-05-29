@@ -1,16 +1,21 @@
 # picKdrama
 
 Welcome to PicK-Drama!
+
 If you've ever been in the mood for watching kdramas but are at a lost for what to watch, maybe we can help.
+
    Upon launching the website, you will be asked to create an account. Please create a username, a password containing atleast 8 characters, and
 your favorite kdrama. Upon logging in, you will be taken to the main screen, which features the randomizer buttons. A majority of kdramas are
 very romanced base and fit into some kind of trope. We have taken the 5 most popular tropes and created an archive of some of these dramas.
 Select the trope you are most interested in and click the button. It will return a randomized title. Already watched the drama/not satisfied? Click again!
+
     If you are curious in finding out more about the drama, head over to Tropes on the navigation board and find the trope that you had clicked.
 It will then bring you to a list of all the dramas that was featured in that trope and offer you a brief summary and a quick way to get to a
 website that will offer even more information on the title.
+
     Next, head over to the Iconic Scenes tab. Here, you can check out some iconic scenes from various kdramas, which might peak your an interest
 in a drama. There are also some other fun clips to check out. You can either watch a video by clicking on the video itself or for the first 4 videos, you can click the play/pause buttons next to their descriptions on the left. There are also hyperlinks in the more info buttons, as well as in the list of iconic lines at the bottom of the page.
+
     Finally, if you want to update your favorite drama, you can head to the dashboard and input a new one.
 
 Youtube Linked: https://youtu.be/F6LEfIFUDRY
