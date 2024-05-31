@@ -1,6 +1,6 @@
 # picKdrama
 
-Welcome to PicK-Drama!
+Welcome to PicK-Drama! by Iris Zhang and Sara Rhouate
 
 If you've ever been in the mood for watching kdramas but are at a loss for what to watch, maybe we can help.
 
